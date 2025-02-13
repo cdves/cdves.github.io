@@ -95,6 +95,15 @@ p {
 	padding      : 0 30px;
 }
 
+.heading--desc a {
+	color: #000;
+	text-decoration: underline;
+}
+
+.heading--desc a:hover {
+	color: #579edd;
+}
+
 .feature-panel .feature--content h3 {
   font-family   : "Jost", serif;
   text-transform: none;
@@ -133,7 +142,7 @@ p {
 .btn--primary:active,
 .btn--primary:focus,
 .btn--primary:hover {
-	background-color: ##579edd;
+	background-color: #579edd;
 	color           : #ffffff;
 }
 
