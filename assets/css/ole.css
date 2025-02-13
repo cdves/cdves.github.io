@@ -65,6 +65,7 @@ p {
 	margin-bottom : 20px;
 	text-transform: none;
   text-shadow: 1px 4px 4px rgba(0, 0, 0, 0.75);
+  font-variant: small-caps;
 }
 
 .smaller {
@@ -83,7 +84,7 @@ p {
 	font-weight   : 450;
 	line-height   : 1;
 	margin-bottom : 30px;
-	text-transform: capitalize;
+	text-transform: none;
 }
 
 .heading .heading--desc {
@@ -98,6 +99,7 @@ p {
 .heading--desc a {
 	color: #000;
 	text-decoration: underline;
+	font-variant: small-caps;
 }
 
 .heading--desc a:hover {
