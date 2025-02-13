@@ -20,11 +20,10 @@
 .hero .hero-content {
 	height: 800px;
 }
-
+*/
 .hero .row-content {
 	padding-top: 30px;
 }
-*/
 
 body {
   font-family   : "Jost", serif;
@@ -42,7 +41,7 @@ p {
   color: #ec4043;
 }
 
-.hero-holder img {
+.hero .hero-holder img {
   border: 5px solid #ffffff; 
   box-shadow: 1.8px 3.5px 3.5px hsl(0deg 0% 0% / 0.45);
 }
