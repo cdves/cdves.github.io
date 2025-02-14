@@ -77,6 +77,12 @@ p {
   font-size: 60px;
 }
 
+.demo a {
+	font-variant: small-caps;
+	font-weight: 600;
+	color: #579edd;
+}
+
 .heading .heading--title {
 	font-family   : "Jost", serif;
 	color         : #222222;
